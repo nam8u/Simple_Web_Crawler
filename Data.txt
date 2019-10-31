@@ -1,0 +1,1084 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <link rel="profile" href="https://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8" />
+  <meta mobile-web-app-capable="yes" />
+<link rel="canonical" href="/home-old" />
+<link rel="shortlink" href="/node/37227" />
+<link rel="shortcut icon" href="https://www.amrita.edu/sites/default/files/amrita-new-favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Amrita Vishwa Vidyapeetham is a NAAC accredited A grade, multi-campus, multi-disciplinary teaching and research institution." />
+<meta name="rights" content="All rights reserved - (C) Amrita Vishwa Vidyapeetham" />
+<link rel="canonical" href="https://www.amrita.edu/" />
+<link rel="shortlink" href="https://www.amrita.edu/" />
+  <title>Amrita Vishwa Vidyapeetham | Founded by Sri Mata Amritanandamayi Devi</title>
+      <link type="text/css" rel="stylesheet" href="https://www.amrita.edu/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.amrita.edu/sites/default/files/css/css_bSZslZ3tptYQXLquYhoitp_lA5wogbiuw3vLvKjXetk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.amrita.edu/sites/default/files/css/css_Vj8iKa8RqH-BY9abwLD4P30gNtEw0NsLlC8-tqcNm8s.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/amritaedu/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@unicorn-fail/drupal-bootstrap-styles@0.0.2/dist/3.3.1/7.x-3.x/drupal-bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.amrita.edu/sites/default/files/css/css_JZAiEDSnFu1_0y0QXBYnHpI1ZZ46pDurO6Zk8Q8ByYY.css" media="all" />
+  <script>document.cookie = 'adaptive_image=' + Math.max(screen.width, screen.height) + '; path=/';</script>
+<script src="https://www.amrita.edu/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://www.amrita.edu/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script src="https://www.amrita.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.amrita.edu/misc/drupal.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.effect.min.js?v=1.10.2"></script>
+<script src="/sites/all/themes/amritaedu/js/bootstrap.js"></script>
+<script>document.createElement( "picture" );</script>
+<script src="https://www.amrita.edu/sites/all/modules/google_cse/google_cse.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/modules/back_to_top/js/back_to_top.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/modules/extlink/extlink.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/libraries/colorbox/jquery.colorbox-min.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/modules/colorbox/js/colorbox.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/modules/colorbox/styles/default/colorbox_style.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/modules/colorbox/js/colorbox_load.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/modules/colorbox/js/colorbox_inline.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/modules/jcarousel/js/jcarousel.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/modules/jcarousel/js/jquery.jcarousel.min.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/modules/field_group/field_group.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/libraries/superfish/superfish.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/libraries/superfish/supersubs.js?pzgokd"></script>
+<script src="https://www.amrita.edu/sites/all/modules/superfish/superfish.js?pzgokd"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"amritaedu","theme_token":"xtOPMrTVpywdMtIisRjLkGzaTTC3twiQIwn-vtlcejY","js":{"sites\/all\/modules\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/picture\/picture.min.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"\/sites\/all\/themes\/amritaedu\/js\/bootstrap.js":1,"1":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/back_to_top\/js\/back_to_top.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/jcarousel\/js\/jcarousel.js":1,"sites\/all\/modules\/jcarousel\/js\/jquery.jcarousel.min.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/adaptive_image\/css\/adaptive-image.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/picture\/picture_wysiwyg.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/back_to_top\/css\/back_to_top.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/modules\/jcarousel\/skins\/default\/jcarousel-default.css":1,"sites\/default\/files\/css\/follow.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"\/sites\/all\/themes\/amritaedu\/css\/bootstrap.min.css":1,"https:\/\/cdn.jsdelivr.net\/npm\/@unicorn-fail\/drupal-bootstrap-styles@0.0.2\/dist\/3.3.1\/7.x-3.x\/drupal-bootstrap.min.css":1,"sites\/all\/themes\/amritaedu\/css\/style.css":1,"sites\/all\/themes\/amritaedu\/css\/custom.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.90","slideshow":false,"slideshowAuto":false,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"returnFocus":true,"maxWidth":"100%","maxHeight":"100%","initialWidth":"480","initialHeight":"480","fixed":true,"scrolling":true,"mobiledetect":false,"mobiledevicewidth":"480px"},"googleCSE":{"cx":"008976432297318053942:b8kdmey90je","language":"","resultsWidth":600,"domain":"www.google.co.in","showWaterMark":0},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views","carousels":{"jcarousel-dom-1":{"view_options":{"view_args":"","view_path":"node\/37227","view_base_path":"events\/pastnew","view_display_id":"page_43","view_name":"all_events","jcarousel_dom_id":1},"wrap":"circular","visible":3,"scroll":1,"auto":3,"autoPause":1,"start":1,"navigation":"before","skin":"default","selector":".jcarousel-dom-1"},"jcarousel-dom-2":{"view_options":{"view_args":"","view_path":"node\/37227","view_base_path":"events\/pastnew","view_display_id":"page_43","view_name":"all_events","jcarousel_dom_id":2},"wrap":"circular","visible":3,"scroll":1,"auto":3,"autoPause":1,"start":1,"navigation":"before","skin":"default","selector":".jcarousel-dom-2"}}},"urlIsAjaxTrusted":{"\/academicssearch-home":true,"\/search\/google":true},"back_to_top":{"back_to_top_button_trigger":"100","back_to_top_button_text":"Back to top","#attached":{"library":[["system","ui"]]}},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":0,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"superfish":{"1":{"id":"1","sf":{"delay":"100","animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":true,"dropShadows":false,"disableHI":false},"plugins":{"supposition":false,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}},"field_group":{"div":"full"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+    <!-- Google Tag Manager --> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KRBW6Z');</script><!-- End Google Tag Manager -->
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-37227 node-type-page">
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,900" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,400" rel="stylesheet">
+<!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KRBW6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+<div class="container-fluid">
+<div id="topMenuRoot" >
+			<div class="row mainmenu">
+			
+			<nav class="navbar navbar-default" role="navigation">
+                <div class="logobar col-md-2 col-sm-12 col-xs-10 text-center-md text-left-lg">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                                data-target="#bs-example-navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+                                    class="icon-bar"></span><span class="icon-bar"></span>
+                        </button>
+                        <div class="logo-img text-left"><a href="/" id="logo"
+                                                 title="Return to the Amrita Vishwa Vidyapeetham home page"><img
+                                        src="/sites/default/files/logo.png" class="img-reponsive"
+                                        alt="Amrita Vishwa Vidyapeetham"></a></div>
+						</div>
+                </div>
+				<div class="menubar col-md-10 col-sm-12 col-xs-12 text-center-xs text-center-sm text-right-md text-right-lg pull-right">
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<div class="hamMenu">
+							<button type="button" class="progressMenu">
+								<span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+										class="icon-bar"></span><span class="icon-bar"></span>
+							</button>
+						</div>
+						<div class="col-md-5 col-sm-12 col-xs-12 text-center-xs text-center-sm text-right-md text-right-lg submenu pull-right">	<div class="row">					
+								
+								<div class="col-md-4 col-sm-12 col-xs-12 pull-right searchBox">							
+									<form class="search-form clearfix navbar-form navbar-right" role="search" action="/search/google" method="post" id="search-form" accept-charset="UTF-8"><div><div class="form-wrapper form-group" id="edit-basic"><div class="input-group"><input placeholder="Search" class="form-control form-text" type="text" id="edit-keys" name="keys" value="" size="40" maxlength="255" /><span class="input-group-btn"><button type="submit" class="btn btn-primary"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span>
+</button></span></div><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Search">Search</button>
+</div><input type="hidden" name="form_build_id" value="form-KmjBVFOFk1Gf_eCZ_e2lDxpHwmiBAxqDbcGUET_qlGk" />
+<input type="hidden" name="form_id" value="search_form" />
+</div></form>								</div>
+								  <div class="region region-topbar">
+    <section id="block-superfish-1" class="block block-superfish clearfix">
+
+      
+  <ul id="superfish-1" class="menu sf-menu sf-menu-test-menu sf-horizontal sf-style-none sf-total-items-1 sf-parent-items-1 sf-single-items-0"><li id="menu-48410-1" class="firstandlast odd sf-item-1 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/academics" title="" class="sf-depth-1 menuparent">Departments &amp; Schools</a><ul><li id="menu-48411-1" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children"><div class="menu-views"><div class="view view-from-the-blog view-id-from_the_blog view-display-id-block_126 row same-height view-dom-id-1f34d4b77d254bf58f3f450b1b90ca4c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-body">        <div class="field-content"><div class="row row-margin-bottom">
+<div class="col-xs-12 col-sm-12 col-md-12">
+<div class="divDept">
+<h3 class="text-danger"><strong>Faculty of Engineering</strong></h3>
+
+<ul><li><strong>Electronics &amp; Communications</strong><br /><small><strong><a class="lnks" href="/school/engineering/coimbatore/electronics-and-communication">Coimbatore</a></strong> | <strong><a class="lnks" href="/school/engineering/bengaluru/electronics-and-communication">Bengaluru</a></strong> | <strong><a class="lnks" href="/school/engineering/amritapuri/electronics-and-communication">Amritapuri</a></strong> | <strong><a class="lnks" href="/school/engineering/chennai">Chennai</a> </strong></small></li>
+	<li><strong>Electrical &amp; Electronics</strong><br /><small><strong><a class="lnks" href="/school/engineering/coimbatore/electrical-and-electronics">Coimbatore</a></strong> | <strong><a class="lnks" href="/school/engineering/bengaluru/electrical-and-electronics">Bengaluru</a></strong> | <strong><a class="lnks" href="/school/engineering/amritapuri/electrical-and-electronics">Amritapuri</a></strong> |<strong> <a class="lnks" href="/school/engineering/chennai">Chennai</a> </strong></small></li>
+	<li><strong>Computer Sciences</strong><br /><small><strong><a class="lnks" href="/school/engineering/coimbatore/computer-science">Coimbatore</a></strong> | <strong><a class="lnks" href="/school/engineering/bengaluru/computer-science">Bengaluru</a></strong> | <strong><a class="lnks" href="/school/engineering/amritapuri/computer-science">Amritapuri</a></strong> | <strong><a class="lnks" href="/school/engineering/chennai">Chennai</a> </strong></small></li>
+	<li><strong>Chemical</strong><br /><strong><small><a class="lnks" href="/school/engineering/coimbatore/chemical-engineering-and-materials-science">Coimbatore</a> </small></strong></li>
+	<li><strong>Aerospace</strong><br /><strong><small><a class="lnks" href="/school/engineering/coimbatore/aerospace">Coimbatore</a> </small></strong></li>
+	<li><strong>Civil</strong><br /><small><strong><a class="lnks" href="/school/engineering/coimbatore/civil">Coimbatore</a></strong> | <strong><a class="lnks" href="/school/engineering/chennai">Chennai</a> </strong></small></li>
+	<li><strong>Mechanical</strong><br /><small><strong><a class="lnks" href="/school/engineering/coimbatore/mechanical">Coimbatore</a></strong> | <strong><a class="lnks" href="/school/engineering/bengaluru/mechanical">Bengaluru</a></strong> | <strong><a class="lnks" href="/school/engineering/amritapuri/mechanical">Amritapuri</a></strong> | <strong><a class="lnks" href="/school/engineering/chennai">Chennai</a> </strong></small></li>
+	<li><strong>Biomedical Engineering</strong><br /><strong><small><a class="lnks" href="/center/amrita-biomedical-engineering">Coimbatore</a> </small></strong></li>
+	<li><strong>Nanosciences</strong><br /><strong><small><a class="lnks" href="/center/nanosciences">Kochi</a></small></strong></li>
+</ul><hr /><h3 class="text-danger"><strong>Faculty of Medical Sciences </strong></h3>
+
+<p><strong>School of Ayurveda</strong><br /><strong><small><a class="lnks" href="/school/ayurveda">Amritapuri</a> </small></strong></p>
+
+<ul><li>Kāyacikitsa </li>
+	<li>Shālakya Tantra </li>
+	<li>Shalya Tantra </li>
+</ul><ul><li>Kaumārabṛtya </li>
+	<li>Prasūti Tantra &amp; Strī Roga </li>
+	<li>Pancakarma </li>
+</ul><p><strong>School of Dentistry</strong><br /><strong><small><a class="lnks" href="/school/dentistry">Kochi</a> </small></strong></p>
+
+<ul><li>Conservative Dentistry and Endodontics </li>
+	<li>Oral and Maxillofacial<br />
+	Pathology and Microbiology </li>
+	<li>Oral &amp; Maxillofacial Surgery </li>
+	<li>Oral Medicine &amp; Radiology </li>
+	<li>Orthodontics &amp; Dentofacial Orthopedics </li>
+	<li>Pediatric Dentistry </li>
+	<li>Periodontics </li>
+	<li>Prosthodontics &amp; Implantology </li>
+	<li>Public Health Dentistry </li>
+</ul><p><strong>School of Pharmacy</strong><br /><strong><small><a class="lnks" href="/school/pharmacy">Kochi</a></small></strong></p>
+
+<ul><li>Pharmaceutics </li>
+	<li>Pharmaceutical Chemistry &amp; Analysis </li>
+	<li>Pharmacy Practice </li>
+	<li>Pharmacology </li>
+</ul><p><strong>College of Nursing</strong><br /><strong><small><a class="lnks" href="/school/nursing">Kochi</a></small></strong></p>
+
+<ul><li>Child Health Nursing </li>
+	<li>Community Health Nursing </li>
+	<li>Medical Surgical Nursing </li>
+	<li>Mental Health Nursing </li>
+	<li>Obstetrics and Gynecologic Nursing </li>
+</ul><p><strong>School of Medicine</strong><br /><strong><small><a class="lnks" href="/school/medicine">Kochi</a></small></strong></p>
+
+<ul><li>Anatomy </li>
+	<li>Anesthesiology </li>
+	<li>Biochemistry </li>
+	<li>Cardio Vascular Thoracic Surgery </li>
+	<li>Cardiology </li>
+	<li>Community Medicine </li>
+	<li>Dermatology </li>
+	<li>Emergency Medicine </li>
+	<li>Endocrinology </li>
+	<li>Fetal Medicine </li>
+	<li>Forensic Medicine &amp; Toxicology </li>
+	<li>Gastroenterology </li>
+	<li>Gastrointestinal Surgery </li>
+	<li>General Medicine </li>
+	<li>General Surgery </li>
+	<li>Geriatrics </li>
+	<li>Gynecological Oncology </li>
+	<li>Head and Neck Surgery </li>
+	<li>Medical Oncology </li>
+	<li>Microbiology </li>
+	<li>Nephrology </li>
+	<li>Neurology </li>
+	<li>Neurosurgery </li>
+	<li>Nuclear Medicine </li>
+	<li>Oncology </li>
+	<li>Obstetrics &amp; Gynecology </li>
+	<li>Ophthalmology </li>
+	<li>Orthopedics </li>
+	<li>Otorhinolaryngology </li>
+	<li>Pathology </li>
+	<li>Pediatric Cardiology </li>
+	<li>Pediatric Surgery </li>
+	<li>Pediatrics </li>
+	<li>Pharmacology </li>
+	<li>Physical Medicine and Rehabilitation </li>
+	<li>Physiology </li>
+	<li>Plastic and Reconstructive Surgery </li>
+	<li>Psychiatry and Behavior Sciences </li>
+	<li>Pulmonary Medicine </li>
+	<li>Radiology </li>
+	<li>Radiotherapy </li>
+	<li>Reproductive Medicine </li>
+	<li>Rheumatology </li>
+	<li>Stroke Medicine </li>
+	<li>Urology </li>
+</ul><hr /><h3 class="text-danger"><strong>Faculty of Management</strong> </h3>
+
+<ul><li><strong>School of Business</strong><br /><strong><small><a class="lnks" href="/school/business/coimbatore">Coimbatore</a> </small></strong></li>
+	<li><strong>Department of Management</strong><br /><small><strong><a class="lnks" href="/school/business/amritapuri">Amritapuri</a></strong> | <strong><a class="lnks" href="/school/business/bengaluru">Bengaluru</a></strong> | <strong><a class="lnks" href="/school/business/kochi">Kochi</a> </strong></small></li>
+</ul><hr /><h3 class="text-danger"><strong>Faculty of Sciences</strong> </h3>
+
+<ul><li><strong>School of Biotechnology</strong><br /><strong><small><a class="lnks" href="/school/biotechnology">Amritapuri</a> </small></strong></li>
+	<li>Biotechnology </li>
+	<li>Microbiology </li>
+	<li>Bioinformatics </li>
+	<li><strong>Department of Chemistry</strong><br /><small><strong><a class="lnks" href="/school/asas/amritapuri/chemistry">Amritapuri</a></strong> | <strong><a class="lnks" href="/school/engineering/bengaluru/chemistry">Bengaluru</a></strong> </small></li>
+	<li><strong>Department of Physics</strong><br /><small><strong><a class="lnks" href="/school/asas/amritapuri/physics">Amritapuri</a></strong> | <strong><a class="lnks" href="/school/engineering/bengaluru/physics">Bengaluru</a> </strong></small></li>
+	<li><strong>Department of Mathematics</strong><br /><small><strong><a class="lnks" href="/school/asas/amritapuri/mathematics">Amritapuri</a></strong> | <strong><a class="lnks" href="/school/engineering/bengaluru/maths">Bengaluru</a></strong> | <strong><a class="lnks" href="/school/engineering/coimbatore/mathematics">Coimbatore</a></strong> | <strong><a class="lnks" href="/asas/kochi/depart_maths.html">Kochi</a> </strong></small></li>
+	<li><strong>Department of Sciences</strong><br /><small><strong><a class="lnks" href="/school/engineering/coimbatore/sciences">Coimbatore</a></strong> | <strong><a class="lnks" href="/asas/mysore/Sciences.html">Mysuru</a></strong></small></li>
+	<li><strong>Department of Computer Science &amp; Applications </strong><br /><small><strong><a class="lnks" href="/school/engineering/amritapuri/computer-science">Amritapuri</a></strong> | <strong><a class="lnks" href="/asas/kochi/depart_it.html">Kochi</a></strong> | <strong><a class="lnks" href="/asas/mysore/Computer%20Science.html">Mysuru</a> </strong></small></li>
+</ul><hr /><h3 class="text-danger"><strong>Faculty of Arts, Media &amp; Commerce</strong> </h3>
+
+<ul><li><strong>Department of Commerce &amp; Management </strong><br /><small><strong><a class="lnks" href="/school/asas/amritapuri/commerce-management">Amritapuri</a></strong> | <strong><a class="lnks" href="/asas/kochi/depart_com.html">Kochi</a></strong> | <strong><a class="lnks" href="/asas/mysore/ManagementCommerce.html">Mysuru</a> </strong></small></li>
+	<li><strong>Department of Visual Media &amp; Communications</strong><br /><small><strong><a class="lnks" href="/asas/kochi/depart_vm.html">Kochi</a></strong> | <strong><a class="lnks" href="/asas/mysore/Visual%20Communication.html">Mysuru</a> </strong></small></li>
+	<li><strong>Department of Communication </strong><br /><strong><small><a class="lnks" href="/school/communication">Coimbatore</a> </small></strong></li>
+</ul><hr /><h3 class="text-danger"><strong>Faculty of Humanities &amp; Social Sciences</strong> </h3>
+
+<ul><li><strong>International Centre for Spiritual Studies</strong><br /><strong><small><a class="lnks" href="/ad">Amritapuri</a> </small></strong></li>
+	<li><strong>Department of Education </strong><br /><strong><small><a class="lnks" href="/school/education/index.html">Mysuru</a> </small></strong></li>
+	<li><strong>Department of Social Work </strong><br /><small><strong><a class="lnks" href="/school/socialwork">Amritapuri</a></strong> | <strong><a class="lnks" href="/school/socialwork">Coimbatore</a> </strong></small></li>
+	<li><strong>Department of Languages </strong><br /><small><strong><a class="lnks" href="/school/asas/amritapuri/english">Amritapuri</a></strong> | <strong><a class="lnks" href="/school/engineering/bengaluru/english">Bengaluru</a></strong> | <strong><a class="lnks" href="/school/engineering/coimbatore/humanities">Coimbatore</a></strong> | <strong><a class="lnks" href="/asas/kochi/depart_eng.html">Kochi</a></strong> | <strong><a class="lnks" href="/asas/mysore/language.html">Mysuru</a> </strong></small></li>
+	<li><strong>Department of Cultural Education </strong><br /><small><strong><a class="lnks" href="">Amritapuri</a></strong> | <strong><a class="lnks" href="/school/engineering/bengaluru/cultural-education/">Bengaluru</a></strong> | <strong><a class="lnks" href="/school/engineering/coimbatore/cultural-education">Coimbatore</a></strong> | <strong><a class="lnks" href="">Chennai</a></strong> | <strong><a class="lnks" href="">Kochi</a></strong> | <strong><a class="lnks" href="">Mysuru</a> </strong></small></li>
+</ul><hr /><p><strong>Centre for International Programs</strong><br /><small><strong><a class="lnks" href="/international">Amritapuri</a></strong></small></p>
+
+<p><strong>Corporate &amp; Industry Relations</strong><br /><small><strong><a class="lnks" href="">Amritapuri</a></strong> | <strong><a class="lnks" href="">Bengaluru</a></strong> | <strong><a class="lnks" href="/department/cir">Coimbatore</a></strong> | <strong><a class="lnks" href="/asas/kochi/depart_cir.html">Kochi</a></strong> | <strong><a class="lnks" href="">Mysuru</a> </strong></small></p>
+</div>
+</div>
+</div>
+
+
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div></li></ul></li></ul>
+</section>
+<section id="block-menu-menu-secondary-nav" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="/nirf" title="">NIRF</a></li>
+<li class="leaf"><a href="/news" title="">News</a></li>
+<li class="leaf"><a href="/events" title="">Events</a></li>
+<li class="leaf"><a href="/tags/student-activities" title="">Students</a></li>
+<li class="leaf"><a href="/faculty" title="">Faculty</a></li>
+<li class="last leaf"><a href="/campus" title="">Campuses</a></li>
+</ul>
+</section>
+  </div>
+							 						 
+							</div>
+						</div>
+						<div class="pull-left col-md-7 col-xs-12 col-sm-12 text-left mainNavi">
+															  <div class="region region-navigation">
+    <section id="block-system-main-menu" class="block block-system block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf active"><a href="/" title="Frontpage" class="active">.</a></li>
+<li class="expanded dropdown"><a href="/admissions" class="dropdown-toggle" data-toggle="dropdown">Admissions <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/admissions/btech-2020">B.Tech. 2020</a></li>
+<li class="leaf"><a href="/admissions/mtech-2020">M.Tech.</a></li>
+<li class="leaf"><a href="/admissions/asb-2019">MBA</a></li>
+<li class="leaf"><a href="/admissions/ascom-2019">Mass Communication</a></li>
+<li class="leaf"><a href="/admissions/biotech-2019" title="">Biosciences</a></li>
+<li class="leaf"><a href="/campus/healthscience" title="">Health Sciences</a></li>
+<li class="leaf"><a href="/admissions/msw-2019">MSW</a></li>
+<li class="leaf"><a href="/admissions/arts-sciences">Arts and Sciences</a></li>
+<li class="leaf"><a href="/admissions/ma-philosophy-2019">Philosophy</a></li>
+<li class="leaf"><a href="/admissions/nano-2019">Nanosciences</a></li>
+<li class="leaf"><a href="/admissions/mca">MCA</a></li>
+<li class="leaf"><a href="/admissions/bsc-hons-agriculture-2019">Agriculture</a></li>
+<li class="leaf"><a href="/academics/doctoral">Ph.D.</a></li>
+<li class="leaf"><a href="/admissions/visual">Visual Communication</a></li>
+<li class="leaf"><a href="/admissions/ayurveda-2019">Ayurveda</a></li>
+<li class="last collapsed"><a href="/admissions/international-nri">International/NRI</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/research" class="dropdown-toggle" data-toggle="dropdown">Research <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/research/centers/all" title="">Centers</a></li>
+<li class="leaf"><a href="/tags/research-news" title="">News</a></li>
+<li class="leaf"><a href="/patents">Patents</a></li>
+<li class="leaf"><a href="/research/projects" title="">Projects</a></li>
+<li class="last leaf"><a href="/publications">Publications</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/about" title="" class="dropdown-toggle" data-toggle="dropdown">About <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/rankings">Rankings</a></li>
+<li class="leaf"><a href="/about/awards-accreditations">Accreditation</a></li>
+<li class="leaf"><a href="/amma">Chancellor</a></li>
+<li class="leaf"><a href="/international/newsletter">Newsletters</a></li>
+<li class="leaf"><a href="/press-media" title="">Press Media</a></li>
+<li class="last leaf"><a href="/about/leadership">Leadership</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/academics" title="" class="dropdown-toggle" data-toggle="dropdown">Academics <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/academics" title="">Programs</a></li>
+<li class="last leaf"><a href="/academics/curriculum">Curriculum</a></li>
+</ul></li>
+<li class="last expanded dropdown"><a href="/international" class="dropdown-toggle" data-toggle="dropdown">International <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/international/exchange_programs" title="">Student Exchange Programs</a></li>
+<li class="leaf"><a href="/international/dualdegrees" title="">Dual Degree Programs</a></li>
+<li class="leaf"><a href="/academics/undergraduate">Undergraduate Studies</a></li>
+<li class="leaf"><a href="/academics/post-graduate">Postgraduate Studies</a></li>
+<li class="leaf"><a href="/international/integrateddegrees" title="">Integrated Degree Programs</a></li>
+<li class="leaf"><a href="/international/live-in-labs">Live-in-Labs®</a></li>
+<li class="last leaf"><a href="/international/internship-program" title="">Student Internship Program</a></li>
+</ul></li>
+</ul>
+</section>
+  </div>
+													</div>
+                    </div>
+                </div>
+                
+				
+
+            </nav>
+			
+			 
+        </div>
+    </div></div>
+       
+
+    
+    
+    <div class="row">
+        <div class="container-fluid mainContent">
+            
+            <section  class="col-sm-12" >
+
+                
+                				
+					  				<div class="tabs">
+ 	 			</div>
+					
+				
+                <a id="main-content"></a>
+                  <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div class="panel-display panel-1col clearfix" >
+  <div class="panel-panel panel-col">
+    <div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+/* LIVE BUTTON for BTech Admission - Do Not Delete */
+.liveBtnAdm {
+    transition: all 0.2s;
+    background: #A4123F !important;
+    border:0 !important;
+}
+
+/*--><!]]>*/
+</style><div class="container-fluid videoHeaderContainer fullBand">
+<div class="row videoHeaderNew">
+<div class="col-md-12">
+<div class="tipTool"><a href="javascript:"><b class="glyphicon glyphicon-map-marker"> </b></a><span> </span></div>
+
+<section class="demo" id="pageScrollMore"><a class="jquery-once-2-processed" href="#pageStart"><span> </span>Scroll</a></section><div class="hero-media unit-hero-media">
+<video autoplay="" id="hero-video" loop="true" muted="true" onloadedmetadata="this.muted = true" poster=""><source id="mp4" src="" type="video/mp4"></source><source id="ogg" src="" type="video/ogg"></source></video></div>
+</div>
+</div>
+</div>
+
+<div class="row filterCoursesNew row-margin-bottom fullBand bottomShadow container-fluid" id="pageStart">
+<div class="filterCoursesContainer admission-section">
+<div class="row">
+<div class="container">
+<div class="col-md-6 col-sm-12 mainHeading">
+<h2>EXPLORE INDIA'S LEADING <strong><span>ACADEMIC PROGRAMS</span></strong><br /><big>TAILORED JUST FOR YOU</big></h2>
+<!--<a class="btn btn-primary btn-block liveBtnAdm" href="admissions/mtech-2019"><big>M. Tech Admissions 2019 Open - Apply Now</big></a>--></div>
+
+<div class="col-md-6 col-sm-12"><div class="view view-blog-styles view-id-blog_styles view-display-id-page_24 blog-style-3 view-dom-id-b9c571f5ed0b142a567c9297e6249496">
+        
+      <div class="view-filters">
+      <form action="/academicssearch-home" method="get" id="views-exposed-form-blog-styles-page-24" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-field-degree-tid-wrapper" class="views-exposed-widget views-widget-filter-field_degree_tid">
+                  <label for="edit-field-degree-tid">
+            Degree          </label>
+                        <div class="views-widget">
+          <div class="form-item form-item-field-degree-tid form-type-select form-group"><select class="form-control form-select" id="edit-field-degree-tid" name="field_degree_tid"><option value="All" selected="selected">- Select -</option><option value="414">Doctoral Programs</option><option value="413">Integrated Degree</option><option value="457">International</option><option value="412">Postgraduate (PG)</option><option value="411">Undergraduate (UG)</option></select></div>        </div>
+              </div>
+          <div id="edit-field-department-tid-wrapper" class="views-exposed-widget views-widget-filter-field_department_tid">
+                  <label for="edit-field-department-tid">
+            School          </label>
+                        <div class="views-widget">
+          <div class="form-item form-item-field-department-tid form-type-select form-group"><select class="form-control form-select" id="edit-field-department-tid" name="field_department_tid"><option value="All" selected="selected">- Select -</option><option value="38">School of Engineering</option><option value="415">Center for Allied Health Sciences</option><option value="4908">School of Agricultural Sciences</option><option value="39">School of Arts and Sciences</option><option value="37">School of Ayurveda</option><option value="31">School of Biotechnology</option><option value="32">School of Business</option><option value="45">Dept. of Mass Communication</option><option value="42">School of Dentistry</option><option value="40">Department of Education</option><option value="41">School of Medicine</option><option value="47">Center for Nanosciences</option><option value="43">College of Nursing</option><option value="44">School of Pharmacy</option><option value="46">Department of Social Work</option></select></div>        </div>
+              </div>
+          <div id="edit-field-campuses-tid-wrapper" class="views-exposed-widget views-widget-filter-field_campuses_tid">
+                  <label for="edit-field-campuses-tid">
+            Campuses          </label>
+                        <div class="views-widget">
+          <div class="form-item form-item-field-campuses-tid form-type-select form-group"><select class="form-control form-select" id="edit-field-campuses-tid" name="field_campuses_tid"><option value="All" selected="selected">- Select -</option><option value="55">Bengaluru</option><option value="4549">Chennai</option><option value="53">Coimbatore</option><option value="54">Kochi</option><option value="56">Mysuru</option><option value="52">Amritapuri</option></select></div>        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <button type="submit" id="edit-submit-blog-styles" name="" value="Explore Now" class="btn btn-default form-submit">Explore Now</button>
+    </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+      <div class="view-empty">
+      <small>SELECT ANY FILTER AND CLICK ON EXPLORE NOW TO SEE RESULTS</small>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="container newsBlog">
+<div class="row same-height margin-top-10">
+<div class="col-xs-12 col-sm-12 col-md-6"><div class="view view-recent-works view-id-recent_works view-display-id-block_44 recent-works view-dom-id-ebae9531ec5d691efb66ace7846ca365">
+        
+  
+  
+      <div class="view-content">
+        <div class="col-md-12 col-sm-12 col-md-12 margin-bottom-10">
+      
+  <div class="views-field views-field-nid">        <span class="field-content">    <div class="causeImage"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/styles/690_535/public/icmr-cnmc-sts-excellence-award-amrita-mbbs-student.jpg?itok=qV7KNq30" width="690" height="535" /></div>
+    <div class="text-color-inherit"><p>October 21, 2019<br /><a href="/news/icmr-cnmc-sts-excellence-award-amrita-mbbs-student">ICMR -CNMC STS Excellence Award for Amrita MBBS Student</a></p></div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+
+<div class="col-xs-12 col-sm-12 col-md-6"><div class="view view-recent-works view-id-recent_works view-display-id-block_45 row same-height view-dom-id-8d11e108b414c852e39eba7ab2b03469">
+        
+  
+  
+      <div class="view-content">
+        <div class="col-xs-6 col-sm-6 col-md-6 margin-bottom-10">
+      
+  <div class="views-field views-field-nid">        <span class="field-content">    <div class="causeImage"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/styles/570x400/public/pace2019-physician-assistant-continuing-education.jpg?itok=nJv4F9LW" width="570" height="416" /></div>
+    <div class="text-color-inherit"><p>October 17, 2019<br /><a href="/news/amrita-win-prizes-physician-assistant-continuing-education-pace-2019">Amrita Win Prizes in Physician Assistant Continuin...</a></p></div></span>  </div>  </div>
+  <div class="col-xs-6 col-sm-6 col-md-6 margin-bottom-10">
+      
+  <div class="views-field views-field-nid">        <span class="field-content">    <div class="causeImage"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/styles/570x400/public/bsides-delhi-amrita-team.png?itok=EHyWQeMM" width="570" height="416" /></div>
+    <div class="text-color-inherit"><p>October 15, 2019<br /><a href="/news/amritas-team-bi0s-bsides-delhi-annual-security-conference">Amrita's Team bi0s at BSides Delhi- An Annual...</a></p></div></span>  </div>  </div>
+  <div class="col-xs-6 col-sm-6 col-md-6 margin-bottom-10">
+      
+  <div class="views-field views-field-nid">        <span class="field-content">    <div class="causeImage"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/styles/570x400/public/graduation-med-news-kochi.png?itok=zvxOVIvC" width="570" height="416" /></div>
+    <div class="text-color-inherit"><p>October 14, 2019<br /><a href="/news/graduation-2019-center-nanosciences-molecular-medicine-schools-medicine-and-dentistry">Graduation 2019 - Center for Nanosciences &amp; Mo...</a></p></div></span>  </div>  </div>
+  <div class="col-xs-6 col-sm-6 col-md-6 margin-bottom-10">
+      
+  <div class="views-field views-field-nid">        <span class="field-content">    <div class="causeImage"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/styles/570x400/public/tech-innovation-eco-system-award.jpg?itok=m9uoh-lR" width="570" height="416" /></div>
+    <div class="text-color-inherit"><p>October 8, 2019<br /><a href="/news/best-institution-year-tech-innovation-eco-system-award-amrita-school-engineering-coimbatore">'Best Institution of the Year - Tech &amp; In...</a></p></div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>
+</div>
+
+<hr /><div class="container">
+<div class="row margin-top-10">
+<div class="col-xs-12 col-sm-12 col-md-12">
+<h2 class="mainHeading"><strong><span>UPCOMING </span></strong><big>EVENTS</big></h2>
+</div>
+</div>
+</div>
+
+<div class="container upComingEvents">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12"><div class="view view-all-events view-id-all_events view-display-id-page_43 blog-style-3 view-dom-id-35375babb16999139756890307a062cf">
+            <div class="view-header">
+      <style>
+<!--/*--><![CDATA[/* ><!--*/
+
+<!--/*--><![CDATA[/* ><!--*/
+
+.page-events-past .view-all-events .views-row
+{
+clear:both !important;
+}
+
+/*--><!]]]]><![CDATA[>*/
+
+/*--><!]]>*/
+</style></div>
+  
+  
+  
+      <div class="view-content">
+      <ul class="jcarousel jcarousel-view--all-events--page-43 jcarousel-dom-1"><li class="jcarousel-item-1 odd" style="display: none;">  
+  <div class="views-field views-field-nid">        <span class="field-content"><div class="row">
+<div class="col-md-12">
+<div class="causeImage col-md-12 visible-lg visible-md"><a href="/event/two-day-national-workshop-machine-learning-using-python"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/machinje-learning-python-thumb.jpg" width="350" height="270" /></a></div>
+<div class="dateTitle">
+<div class="col-md-2 col-sm-12 col-xs-12"><span class="date-display-single">Oct <pam10>25<pam10><p></p><p></p></pam10></pam10></span></div>
+<div class="col-md-9 col-sm-12 col-xs-12 upComingTitle"><a href="/event/two-day-national-workshop-machine-learning-using-python">National Workshop on Machine Learning using Python</a></div>
+</div>
+</div>
+</div></span>  </div></li>
+      <li class="jcarousel-item-2 even" style="display: none;">  
+  <div class="views-field views-field-nid">        <span class="field-content"><div class="row">
+<div class="col-md-12">
+<div class="causeImage col-md-12 visible-lg visible-md"><a href="/event/national-workshop-analog-and-mixed-signal-ic-design-using-mentor-tanner-ams-tool-suite"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/analog-mixed-signal-1.jpg" width="350" height="270" /></a></div>
+<div class="dateTitle">
+<div class="col-md-2 col-sm-12 col-xs-12"><span class="date-display-single">Nov <pam11>08<pam11><p></p><p></p></pam11></pam11></span></div>
+<div class="col-md-9 col-sm-12 col-xs-12 upComingTitle"><a href="/event/national-workshop-analog-and-mixed-signal-ic-design-using-mentor-tanner-ams-tool-suite">National Workshop on Analog and Mixed-Signal IC Design using Mentor Tanner AMS Tool Suite</a></div>
+</div>
+</div>
+</div></span>  </div></li>
+      <li class="jcarousel-item-3 odd" style="display: none;">  
+  <div class="views-field views-field-nid">        <span class="field-content"><div class="row">
+<div class="col-md-12">
+<div class="causeImage col-md-12 visible-lg visible-md"><a href="/event/workshop-technology-enabler-smart-cities-tesc-2019"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/smartcity-2.png" width="1488" height="1176" /></a></div>
+<div class="dateTitle">
+<div class="col-md-2 col-sm-12 col-xs-12"><span class="date-display-single">Nov <pam11>13<pam11><p></p><p></p></pam11></pam11></span></div>
+<div class="col-md-9 col-sm-12 col-xs-12 upComingTitle"><a href="/event/workshop-technology-enabler-smart-cities-tesc-2019">Workshop on Technology Enabler for Smart Cities (TESC-2019)</a></div>
+</div>
+</div>
+</div></span>  </div></li>
+      <li class="jcarousel-item-4 even" style="display: none;">  
+  <div class="views-field views-field-nid">        <span class="field-content"><div class="row">
+<div class="col-md-12">
+<div class="causeImage col-md-12 visible-lg visible-md"><a href="/event/drdo-sponsored-workshop-mini-project-course-physical-layer-security-theory-practice"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/physical-layer-security-thumb.png" width="350" height="270" /></a></div>
+<div class="dateTitle">
+<div class="col-md-2 col-sm-12 col-xs-12"><span class="date-display-single">Nov <pam11>13<pam11><p></p><p></p></pam11></pam11></span></div>
+<div class="col-md-9 col-sm-12 col-xs-12 upComingTitle"><a href="/event/drdo-sponsored-workshop-mini-project-course-physical-layer-security-theory-practice">DRDO Sponsored Workshop &amp; Mini-Project Course on Physical Layer Security Theory to Practice</a></div>
+</div>
+</div>
+</div></span>  </div></li>
+      <li class="jcarousel-item-5 odd" style="display: none;">  
+  <div class="views-field views-field-nid">        <span class="field-content"><div class="row">
+<div class="col-md-12">
+<div class="causeImage col-md-12 visible-lg visible-md"><a href="/event/amrita-fracture-course-2019"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/amrita-fracture-course-2019-thumbnail-img.png" width="350" height="270" /></a></div>
+<div class="dateTitle">
+<div class="col-md-2 col-sm-12 col-xs-12"><span class="date-display-single">Nov <pam11>16<pam11><p></p><p></p></pam11></pam11></span></div>
+<div class="col-md-9 col-sm-12 col-xs-12 upComingTitle"><a href="/event/amrita-fracture-course-2019">Amrita Fracture Course 2019</a></div>
+</div>
+</div>
+</div></span>  </div></li>
+      <li class="jcarousel-item-6 even" style="display: none;">  
+  <div class="views-field views-field-nid">        <span class="field-content"><div class="row">
+<div class="col-md-12">
+<div class="causeImage col-md-12 visible-lg visible-md"><a href="/event/9th-international-symposium-embedded-computing-system-design-ised"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/ised-thumbnail.png" width="357" height="282" /></a></div>
+<div class="dateTitle">
+<div class="col-md-2 col-sm-12 col-xs-12"><span class="date-display-single">Dec <pam12>13<pam12><p></p><p></p></pam12></pam12></span></div>
+<div class="col-md-9 col-sm-12 col-xs-12 upComingTitle"><a href="/event/9th-international-symposium-embedded-computing-system-design-ised">9th International Symposium on Embedded Computing &amp; System Design (ISED) </a></div>
+</div>
+</div>
+</div></span>  </div></li>
+  </ul></div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>
+</div>
+
+<hr /><div class="container">
+<div class="row margin-top-10">
+<div class="col-xs-12 col-sm-12 col-md-12">
+<h2 class="mainHeading"><strong><span>EXPLORE </span></strong><big>AMRITA</big></h2>
+</div>
+</div>
+</div>
+
+<div class="container videoHome">
+<div class="row same-height margin-top-10">
+<div class="col-xs-12 col-sm-12 col-md-8 margin-top-10">
+<p class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" height="260" src="https://www.youtube.com/embed/76HQAoPONbI?hd=1&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;disablekb=1&amp;modestbranding=1&amp;playsinline=1&amp;color=white&amp;iv_load_policy=3"></iframe></p>
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-4 margin-top-10">
+<p class="embed-responsive embed-responsive-16by9"><iframe allowfullscreen="" frameborder="0" height="120px" scrolling="no" src="https://www.youtube.com/embed/LKDNELuoJHI?hd=1&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;disablekb=1&amp;modestbranding=1&amp;playsinline=1&amp;color=white&amp;iv_load_policy=3" width="215px "></iframe></p>
+
+<p class="embed-responsive embed-responsive-16by9"><iframe allowfullscreen="" frameborder="0" height="120px" scrolling="no" src="https://www.youtube.com/embed/jcHzE7pTVDY?hd=1&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;disablekb=1&amp;modestbranding=1&amp;playsinline=1&amp;color=white&amp;iv_load_policy=3" width="215px "></iframe></p>
+</div>
+</div>
+</div>
+
+<hr /><div class="container liveLabs">
+<div class="row same-height margin-top-10">
+<div class="col-xs-12 col-sm-12 col-md-6">
+<h2 class="mainHeading">UNIQUE <span><strong>EXPERIENTIAL LEARNING</strong></span> PROGRAM<br /><strong><big>LIVE-IN-LABS®</big></strong></h2>
+
+<p>Live-in-Labs® is a multidisciplinary experiential learning program that breaks classroom and lab barriers by applying learned theory in real-world settings. This credit-based academic program facilitates the research, development, and deployment of sustainable solutions for current challenges faced by rural communities in India.</p>
+
+<p>The program brings together Amrita students and faculty - in conjunction with students and faculty from international universities - to form multidisciplinary teams that will spend two weeks to six months in Indian villages. <a href="/international/live-in-labs">Know More»»</a></p>
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-6">
+<div class="carousel slide" data-ride="carousel" id="carousel-international">
+<ol class="carousel-indicators"><li class="active" data-slide-to="0" data-target="#carousel-international"> </li>
+	<li data-slide-to="1" data-target="#carousel-international"> </li>
+	<li data-slide-to="2" data-target="#carousel-international"> </li>
+	<li data-slide-to="3" data-target="#carousel-international"> </li>
+	<li data-slide-to="4" data-target="#carousel-international"> </li>
+	<li data-slide-to="5" data-target="#carousel-international"> </li>
+	<li data-slide-to="6" data-target="#carousel-international"> </li>
+	<li data-slide-to="7" data-target="#carousel-international"> </li>
+</ol><div class="carousel-inner">
+<div class="item active"><a href="/international/live-in-labs"><img src="/sites/default/files/live-in-lab1.jpg" /></a>
+
+<div class="carousel-caption"> </div>
+</div>
+
+<div class="item"><a href="/international/live-in-labs"><img src="/sites/default/files/live-in-lab2.jpg" /></a>
+
+<div class="carousel-caption"> </div>
+</div>
+
+<div class="item"><a href="/international/live-in-labs"><img src="/sites/default/files/live-in-lab3.jpg" /></a>
+
+<div class="carousel-caption"> </div>
+</div>
+
+<div class="item"><a href="/international/live-in-labs"><img src="/sites/default/files/live-in-lab4.jpg" /></a>
+
+<div class="carousel-caption"> </div>
+</div>
+
+<div class="item"><a href="/international/live-in-labs"><img src="/sites/default/files/live-in-lab5.jpg" /></a>
+
+<div class="carousel-caption"> </div>
+</div>
+
+<div class="item"><a href="/international/live-in-labs"><img src="/sites/default/files/live-in-lab6.jpg" /></a>
+
+<div class="carousel-caption"> </div>
+</div>
+
+<div class="item"><a href="/international/live-in-labs"><img src="/sites/default/files/live-in-lab7.jpg" /></a>
+
+<div class="carousel-caption"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr /><div class="container newsBlog researchNews">
+<div class="row margin-top-10">
+<div class="col-xs-12 col-sm-12 col-md-12">
+<h2 class="mainHeading"><strong><span>RESEARCH</span></strong><br /><big>FOR A CAUSE</big></h2>
+</div>
+</div>
+
+<div class="row margin-top-10 text-center row-margin-bottom">
+<div class="col-md-4 col-sm-6 col-xs-6">
+<div class="col-xs-12 col-sm-6 col-md-6"><a href="/school/biotechnology/research"><img src="/sites/default/files/biotechnology_0.png" /></a>
+
+<h5><a href="/school/biotechnology/research">Biotechnology</a></h5>
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-6"><a href="/research/centers#Cyber-Security"><img src="/sites/default/files/cyber-security_1.png" /></a>
+
+<h5><a href="/research/centers#Cyber-Security">Cyber Security</a></h5>
+</div>
+</div>
+
+<div class="col-md-4 col-sm-6 col-xs-6">
+<div class="col-xs-12 col-sm-6 col-md-6"><a href="/research/centers#Engineering"><img src="/sites/default/files/engineering.png" /></a>
+
+<h5><a href="/research/centers#Engineering">Engineering</a></h5>
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-6"><a href="/research/centers#Green-Technologies"><img src="/sites/default/files/green-tech.png" /></a>
+
+<h5><a href="/research/centers#Green-Technologies">Green Technologies</a></h5>
+</div>
+</div>
+
+<div class="col-md-4 col-sm-6 col-xs-6">
+<div class="col-xs-12 col-sm-6 col-md-6"><a href="/research/centers#Medical-Sciences"><img src="/sites/default/files/medical.png" /></a>
+
+<h5><a href="/research/centers#Medical-Sciences">Medical Sciences</a></h5>
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-6"><a href="/research/centers#Learning-Technologies"><img src="/sites/default/files/learning-tech_0.png" /></a>
+
+<h5><a href="/research/centers#Learning-Technologies">Learning Technologies</a></h5>
+</div>
+</div>
+
+<div class="col-md-4 col-sm-6 col-xs-6 col-md-offset-1">
+<div class="col-xs-12 col-sm-6 col-md-6"><a href="/research/centers#Management"><img src="/sites/default/files/management.png" /></a>
+
+<h5><a href="/research/centers#Management">Management</a></h5>
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-6"><a href="/research/centers#Nanoscience"><img src="/sites/default/files/nanotechnology.png" /></a>
+
+<h5><a href="/research/centers#Nanoscience">Nano Sciences</a></h5>
+</div>
+</div>
+
+<div class="col-md-4 col-sm-12 col-xs-12">
+<div class="col-xs-6 col-md-offset-0 col-sm-offset-3 col-sm-3  col-md-6"><a href="/research/centers#Social-Sciences"><img src="/sites/default/files/social-science.png" /></a>
+
+<h5><a href="/research/centers#Social-Sciences">Social Sciences / Women’s Empowerment</a></h5>
+</div>
+
+<div class="col-xs-6  col-sm-3 col-md-6"><a href="/research/centers#Wireless"><img src="/sites/default/files/wireless.png" /></a>
+
+<h5><a href="/research/centers#Wireless">Wireless &amp; Networks</a></h5>
+</div>
+</div>
+
+<div class="col-md-3 col-sm-12 col-xs-12">
+<div class="col-xs-6 col-xs-offset-3 col-md-offset-0 col-sm-offset-4 col-sm-4 col-md-8"><a href="/research/centers#Humanitarian-Robotics-HCI"><img src="/sites/default/files/robotics-logo.png" /></a>
+
+<h5><a href="/research/centers#Humanitarian-Robotics-HCI">Humanitarian Robotics/HCI</a></h5>
+</div>
+</div>
+</div>
+
+<div class="row margin-top-10">
+<div class="col-xs-12 col-sm-12 col-md-6"><div class="view view-recent-works view-id-recent_works view-display-id-block_46 recent-works view-dom-id-30cad8efd3a0d414c07076054874db05">
+        
+  
+  
+      <div class="view-content">
+        <div class="col-md-12 col-sm-12 col-md-12 margin-bottom-10">
+      
+  <div class="views-field views-field-nid">        <span class="field-content">    <div class="causeImage"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/styles/690_535/public/amrita-signs-with-intent-university-banner.jpg?itok=ai4KgdVZ" width="690" height="535" /></div>
+    <div class="text-color-inherit"><p>October 20, 2019<br /><a href="/news/amrita-signs-letter-intent-university-twente-netherlands">Amrita Signs Letter of Intent with University of Twente, Netherlands</a></p></div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+
+<div class="col-xs-12 col-sm-12 col-md-6"><div class="view view-recent-works view-id-recent_works view-display-id-block_47 row same-height view-dom-id-71475ba03bdb602fb61d8f4d4d85471c">
+        
+  
+  
+      <div class="view-content">
+        <div class="col-xs-6 col-sm-6 col-md-6 margin-bottom-10">
+      
+  <div class="views-field views-field-nid">        <span class="field-content">    <div class="causeImage"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/styles/570x400/public/rare-intra-uterine-foetal-procedure-amrita.jpg?itok=OKvfELaF" width="570" height="416" /></div>
+    <div class="text-color-inherit"><p>October 17, 2019<br /><a href="/news/rare-intra-uterine-foetal-procedure-amrita-saves-life-woman-child">Rare Intra-uterine Foetal Procedure at Amrita Saves Life of Woman &amp; Child</a></p></div></span>  </div>  </div>
+  <div class="col-xs-6 col-sm-6 col-md-6 margin-bottom-10">
+      
+  <div class="views-field views-field-nid">        <span class="field-content">    <div class="causeImage"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/styles/570x400/public/pepe-robot-blog-image.png?itok=okWSLPhq" width="570" height="416" /></div>
+    <div class="text-color-inherit"><p>October 14, 2019<br /><a href="/news/amrita-glasgow-university-researchers-design-hand-hygiene-robot-helps-kids-wash-hands">Amrita &amp; Glasgow University Researchers' Design Hand Hygiene Robot that Helps Kid...</a></p></div></span>  </div>  </div>
+  <div class="col-xs-6 col-sm-6 col-md-6 margin-bottom-10">
+      
+  <div class="views-field views-field-nid">        <span class="field-content">    <div class="causeImage"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/styles/570x400/public/iberoamerican-ribef-symposium.jpg?itok=PvXYTSYZ" width="570" height="416" /></div>
+    <div class="text-color-inherit"><p>October 9, 2019<br /><a href="/news/amrita-talks-iberoamerican-ribef-symposium-and-5th-cioms-working-group-meeting">Amrita Talks at IberoAmerican RIBEF Symposium and 5th CIOMS Working Group Meeting</a></p></div></span>  </div>  </div>
+  <div class="col-xs-6 col-sm-6 col-md-6 margin-bottom-10">
+      
+  <div class="views-field views-field-nid">        <span class="field-content">    <div class="causeImage"><img class="img-responsive" src="https://www.amrita.edu/sites/default/files/styles/570x400/public/dr-jeff-perry-biotechnology-blogimg.png?itok=O3X5afqo" width="570" height="416" /></div>
+    <div class="text-color-inherit"><p>October 8, 2019<br /><a href="/news/amrita-adjunct-prof-awarded-us-dept-defense-grant-develop-novel-lead-compound-treat-breast">Amrita Adjunct Prof. Awarded US Dept. of Defense Grant to Develop Novel Lead Compound to T...</a></p></div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>
+
+<div class="row row-margn-bottom">
+<div class="col-xs-12 col-sm-12 col-md-12 margin-bottom-10">
+<p><a class="btn btn-default pull-right" href="/news/research">SHOW ALL</a></p>
+</div>
+</div>
+
+<hr /><div class="container">
+<div class="row footerCounts">
+<div class="col-md-6 col-xs-12 col-sm-12">
+<div class="row">
+<div class="col-md-12">
+<h2 class="mainHeading"><span><strong>RANKED TOP</strong> </span> AMONG INDIA’S PRIVATE UNIVERSITIES <big><big>UNIVERSITY RANKINGS</big></big></h2>
+</div>
+
+<div class="right">
+<div class="col-md-12 col-xs-12 col-sm-12 margin-bottom-10">
+<div class="row text-center-xs text-center-sm margin-bottom-10">
+<div class="col-md-4 col-sm-4 col-xs-4"><a href="/rankings"><img alt="the" border="0" src="/sites/default/files/the-new.png" /></a></div>
+
+<div class="col-md-4 col-sm-4 col-xs-4"><a href="/rankings"><big>601-800<sup>th</sup></big> <small>World University Rankings 2020</small></a></div>
+
+<div class="col-md-4 col-sm-4 col-xs-4"><a href="/rankings"><big>141</big><small> BRICS Rankings 2019</small></a></div>
+</div>
+</div>
+
+<div class="col-md-12 col-xs-12 col-sm-12 margin-bottom-10">
+<div class="row text-center-xs text-center-sm">
+<div class="col-md-4 col-sm-4 col-xs-4"><a href="/rankings"><img alt="qs" src="/sites/default/files/qs-new.png" style="border-width: 0px; border-style: solid;" /></a></div>
+
+<div class="col-md-4 col-sm-4 col-xs-4"><a href="/rankings"><big>801-1000<sup>th</sup></big> <small>World University Rankings 2019</small></a></div>
+
+<div class="col-md-4 col-sm-4 col-xs-4"><a href="/rankings"><big>168<sup>th</sup></big><small> BRICS University Rankings 2019</small></a></div>
+</div>
+</div>
+
+<div class="col-md-12 col-xs-12 col-sm-12">
+<div class="row text-center-xs text-center-sm">
+<div class="col-md-4 col-sm-4 col-xs-4"><a href="/rankings"><img alt="nirf" src="/sites/default/files/nirf-new_0.png" style="border-width: 0px; border-style: solid;" /></a></div>
+
+<div class="col-md-4 col-sm-4 col-xs-4"><a href="/rankings"><big>8<sup>th</sup></big> <small>India University Rankings 2018</small></a></div>
+
+<div class="col-md-4 col-sm-4 col-xs-4"><a href="/rankings"><big>15<sup>th</sup></big> <small>Overall Rankings 2018</small></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="row">
+<div class="col-md-6 col-sm-6 col-xs-12 top">
+<h2 class="mainHeading"><span><strong>UNPARALLELED</strong></span> <big> <big> <big>LEADERSHIP</big></big></big></h2>
+
+<p class="text-right">Amrita Vishwa Vidyapeetham was founded by the world-renowned humanitarian leader, Sri Mata Amritanandamayi Devi, Amma. As Chancellor of the Amrita Vishwa Vidyapeetham, Amma continues to guide the institution's mission and growth. <a href="/amma">Know More »»</a></p>
+</div>
+
+<div class="col-md-6 col-sm-6 col-xs-12 margin-top-10">
+<p><img src="/sites/default/files/amma-new-border.jpg" /></p>
+
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</div></div></div></div>
+  </div>
+</div>
+
+</section>
+  </div>
+            </section>
+
+                    </div>
+    </div>
+    <div class="row logos fullBandInner weatherSocialCover">
+        <div class="container-fluid">
+		
+              <div class="region region-showcase">
+    <section id="block-block-438" class="block block-block clearfix">
+
+      
+  <div class="container">
+<div class="row">
+<div class="col-md-3">
+<div id="result"> </div>
+</div>
+
+<div class="col-md-6 socialmedia text-center"> </div>
+
+<div class="col-md-3 text-right"><a class="ext" href="https://www.facebook.com/AmritaUniversity" rel="noopener noreferrer" target="_blank"><span class="fa fa-facebook-square fb-blue fa-2x" href="https://www.facebook.com/AmritaUniversity"> </span></a>  <a class="ext" href="https://www.youtube.com/user/AmritaUniversity" rel="noopener noreferrer" target="_blank"><span class="fa fa-youtube-square youtube-red fa-2x" href="https://www.youtube.com/user/AmritaUniversity"> </span></a>  <a class="ext" href="https://twitter.com/AMRITAedu" rel="noopener noreferrer" target="_blank"><span class="fa fa-twitter-square twit-blue fa-2x" href="https://twitter.com/AMRITAedu"> </span></a>  <a class="ext" href="https://www.linkedin.com/company/amrita-vishwa-vidyapeetham-official/" rel="noopener noreferrer" target="_blank"><span class="fa fa-linkedin-square fa-2x" href="https://www.linkedin.com/company/amrita-vishwa-vidyapeetham-official/"> </span></a></div>
+</div>
+</div>
+
+
+
+</section>
+  </div>
+            <!--div class="col-md-2 col-sm-4 text-align-center">
+                
+                
+                <a href="http://amritaserve.org/" target="_blank"><img alt=""
+                                                                       src="https://www.amrita.edu/sites/default/files/serve_logo_small.png"></a>
+            </div>
+            <div class="col-md-3 col-sm-4 text-align-center">
+                <a href="http://www.embracingtheworld.org/" target="_blank"><img alt="" height="44"
+                                                                                 src="https://www.amrita.edu/sites/default/files/styles/medium/public/em.png"
+                                                                                 width="170"></a>
+            </div>
+            <div class="col-md-2 col-sm-4 text-align-center">
+                <a href="http://amma.org/" target="_blank"><img alt="" height="44"
+                                                                src="https://www.amrita.edu/sites/default/files/styles/medium/public/amma-logo.png"
+                                                                width="170"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 text-align-center">
+                <a href="http://www.amritapuri.org/" target="_blank"><img alt="" height="44"
+                                                                          src="https://www.amrita.edu/sites/default/files/styles/medium/public/amritapuri-logo.png"
+                                                                          width="170"></a>
+            </div>
+            <div class="col-md-2 col-sm-6 text-align-center">
+                <a href="http://amritayoga.com/" target="_blank"><img alt=""
+                                                                      class="media-image img__fid__34288 img__view_mode__media_original attr__format__media_original"
+                                                                      height="44"
+                                                                      src="https://www.amrita.edu/sites/default/files/amritayoga.png"
+                                                                      width="170"></a>
+            </div-->
+        </div>
+		
+    </div>
+    <div class="row startFooter">
+        <div class="container">
+            				<div class="sub-mainbottom">
+					<ul>
+						<li class="col-md-2 col-sm-6 text-center-sm text-center-xs">  <div class="region region-mainbottom-c1">
+    <section id="block-menu-menu-schools" class="block block-menu clearfix">
+
+        <h2 class="block-title">Schools</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/school/agriculture" title="">Agricultural Sciences</a></li>
+<li class="leaf"><a href="/school/asas" title="">Arts &amp; Sciences</a></li>
+<li class="leaf"><a href="/school/ayurveda" title="">Ayurveda</a></li>
+<li class="leaf"><a href="/school/biotechnology" title="">Biotechnology</a></li>
+<li class="leaf"><a href="/school/business" title="">Business</a></li>
+<li class="leaf"><a href="/school/dentistry" title="">Dentistry</a></li>
+<li class="leaf"><a href="/school/education" title="">Education</a></li>
+<li class="leaf"><a href="/school/engineering" title="">Engineering</a></li>
+<li class="leaf"><a href="/school/medicine" title="">Medicine</a></li>
+<li class="leaf"><a href="/school/nursing" title="">Nursing</a></li>
+<li class="last leaf"><a href="/school/pharmacy" title="">Pharmacy</a></li>
+</ul>
+</section>
+  </div>
+</li>
+						<li class="col-md-3 col-sm-6 text-center-sm text-center-xs">  <div class="region region-mainbottom-c2">
+    <section id="block-menu-menu-research" class="block block-menu clearfix">
+
+        <h2 class="block-title">Research</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/research/centers/all" title="">Centers</a></li>
+<li class="leaf"><a href="https://scholar.google.co.in/citations?view_op=view_org&amp;hl=en&amp;org=1628360162380345289" title="">Google Scholar</a></li>
+<li class="leaf"><a href="/news/all" title="">News</a></li>
+<li class="leaf"><a href="/patents" title="">Patents</a></li>
+<li class="leaf"><a href="/research/projects" title="">Projects</a></li>
+<li class="last leaf"><a href="/publications" title="">Publications</a></li>
+</ul>
+</section>
+<section id="block-menu-menu-departments" class="block block-menu clearfix">
+
+        <h2 class="block-title">Departments</h2>
+    
+  <ul class="menu nav"><li class="first last leaf"><a href="/academics" title="">Departments A to Z</a></li>
+</ul>
+</section>
+  </div>
+</li>
+						<li class="col-md-3 col-sm-6 text-center-sm text-center-xs">  <div class="region region-mainbottom-c3">
+    <section id="block-menu-menu-reports" class="block block-menu clearfix">
+
+        <h2 class="block-title">Reports</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/iqac" title="">NAAC</a></li>
+<li class="leaf"><a href="/nirf" title="">NIRF</a></li>
+<li class="last leaf"><a href="/nba" title="">NBA</a></li>
+</ul>
+</section>
+<section id="block-menu-menu-programs" class="block block-menu clearfix">
+
+        <h2 class="block-title">Programs</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/academics/undergraduate" title="">Undergraduate </a></li>
+<li class="leaf"><a href="/academics/post-graduate" title="">Postgraduate</a></li>
+<li class="leaf"><a href="/program/integrated-degree" title="">Integrated Degree</a></li>
+<li class="leaf"><a href="/academics/doctoral" title="">Doctoral</a></li>
+<li class="leaf"><a href="/international/dualdegrees" title="">International</a></li>
+<li class="last leaf active"><a href="/" title="" class="active">Certificate Courses</a></li>
+</ul>
+</section>
+  </div>
+</li>
+						<li class="col-md-2 col-sm-6 text-center-sm text-center-xs">  <div class="region region-mainbottom-c4">
+    <section id="block-menu-menu-about-amrita" class="block block-menu clearfix">
+
+        <h2 class="block-title">About Amrita</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/rankings" title="">Rankings</a></li>
+<li class="leaf"><a href="/about/awards-accreditations" title="">Accreditation</a></li>
+<li class="leaf"><a href="/amma" title="">Chancellor</a></li>
+<li class="leaf"><a href="/international/newsletter" title="">Newsletters</a></li>
+<li class="last leaf"><a href="/press-media" title="">Press  Media</a></li>
+</ul>
+</section>
+<section id="block-menu-menu-resources" class="block block-menu clearfix">
+
+        <h2 class="block-title">Resources</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/aums" title="">AUMS</a></li>
+<li class="leaf"><a href="/academic-calendar" title="">Academic Calendar</a></li>
+<li class="leaf active"><a href="/" title="" class="active">Archives</a></li>
+<li class="leaf active"><a href="/" title="" class="active">Campus Maps</a></li>
+<li class="leaf"><a href="https://helpdesk.amrita.edu/" title="">Web Support</a></li>
+<li class="last leaf"><a href="https://admissions.amrita.edu/helpdesk/" title="">BTech Admissions HelpDesk</a></li>
+</ul>
+</section>
+  </div>
+</li>
+						<li class="col-md-2 col-sm-12 col-xs-12 text-center-sm text-center-xs">  <div class="region region-mainbottom-c5">
+    <section id="block-block-436" class="block block-block clearfix">
+
+      
+  <p class="row"><a class="btn btn-default col-sm-3 col-xs-6" href="/admissions">Apply Now</a> <a class="btn btn-default col-sm-3 col-xs-6" href="/campus">Visit Us</a> <a class="btn btn-default col-sm-3 col-xs-6" href="/jobs">Jobs &amp; Careers</a> <a class="btn btn-default col-sm-3 col-xs-6" href="/contact-us">Contact Us</a></p>
+
+
+
+</section>
+  </div>
+</li>
+					</ul>
+					<div style="clear:both;"></div>
+				</div>
+        </div>
+    </div>
+	<div class="container-fluid endFooter">
+    <div class="row fullBandInner">
+        <div class="container-fluid">
+              <div class="region region-footer">
+    <section id="block-block-437" class="block block-block clearfix">
+
+      
+  <div class="row">
+<div class="container">
+<div class="col-md-9 col-sm-9 col-xs-12">
+<div class="row margin-bottom-10">
+<div class="col-md-12">
+<ul><li><a href="./">Home</a></li>
+	<li><a href="/campus">Maps &amp; Directions</a></li>
+	<li><a href="/contact/management">Write to Us</a></li>
+	<li><a href="">Outreach</a></li>
+</ul></div>
+</div>
+
+<div class="row margin-bottom-10">
+<div class="col-md-12"><a href="/branding">Branding</a> <a href="">Terms of Use</a> <a href="">Privacy</a> <a href="">Copyright</a> <a href="">Trademarks</a> <a href="/grievance">Ragging/Grievance</a></div>
+
+<div class="col-md-12 campus margin-top-10"><span>© <?php print date('Y', time());??> Amrita Vishwa Vidyapeetham</span>   <span><a href="/campus/amritapuri">Amritapuri</a> | <a href="/campus/bengaluru">Bengaluru</a> | <a href="/campus/chennai">Chennai</a> | <a href="/campus/coimbatore">Coimbatore</a> | <a href="/campus/kochi">Kochi</a> | <a href="/campus/mysore">Mysuru</a></span></div>
+</div>
+</div>
+
+<div class="col-md-3 pull-right">
+<div class="row margin-bottom-10"><img alt="AVVP" class="img-responsive" src="/sites/default/files/logo.png" /></div>
+
+<div class="row">
+<div class="col-md-12"> </div>
+</div>
+<!--<div class="row">
+<div class="container">
+<div class="col-md-12 social"><a class="ext" href="https://www.facebook.com/amritabio" rel="noopener noreferrer" target="_blank"><span class="fa fa-facebook-square fb-blue fa-2x" href="https://www.facebook.com/amritabio">&nbsp;</span></a>&nbsp;&nbsp;<a class="ext" href="https://www.youtube.com/user/amritabiotech" rel="noopener noreferrer" target="_blank"><span class="fa fa-youtube-square youtube-red fa-2x" href="https://www.youtube.com/user/amritabiotech">&nbsp;</span></a>&nbsp;&nbsp;<a class="ext" href="https://twitter.com/amritabiotech" rel="noopener noreferrer" target="_blank"><span class="fa fa-twitter-square twit-blue fa-2x" href="https://twitter.com/amritabiotech">&nbsp;</span></a>&nbsp;&nbsp;<a class="ext" href="https://www.linkedin.com/edu/school?id=43056" rel="noopener noreferrer" target="_blank"><span class="fa fa-linkedin-square fa-2x" href="https://www.linkedin.com/edu/school?id=43056">&nbsp;</span></a></div>
+</div>
+</div>
+--></div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-12"> </div>
+</div>
+
+
+
+</section>
+  </div>
+            </div>
+        </div>
+    </div>
+</div>
+  <script src="https://www.amrita.edu/sites/all/modules/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
+<script src="https://www.amrita.edu/sites/all/modules/picture/picture.min.js?v=7.67"></script>
+<script src="https://www.amrita.edu/sites/all/themes/bootstrap/js/bootstrap.js?pzgokd"></script>
+   
+<script type="text/javascript" src="/sites/all/themes/amritaedu/js/custom.js"></script>
+</body>
+</html>
